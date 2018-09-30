@@ -1,6 +1,4 @@
-# limitDHCPleasescript
-
-#Limit client otomatis pada simple queues berdasarkan dhcp lease
+# Membuat simple queues auto berdasarkan dhcp lease serta membagi bandwidth secara dinamis berdasarkan jumlah koneksi
 
 #buat nama parent terlebih dahulu dengan nama=GUESTS
 
