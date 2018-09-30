@@ -8,7 +8,7 @@
 
 #tentukan ip range target dan bandwidth internet
 
-#copy dan paste script dibawah ini pada: IP-DHCP Server-Lease Script
+#copy dan paste script leasescript.txt ini pada: IP-DHCP Server-Lease Script
 
 #sesuaikan limit-at dan max-limit sesuai bandwidth yang kamu miliki
 
