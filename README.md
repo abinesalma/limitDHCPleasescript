@@ -4,6 +4,6 @@
 
 #buat nama parent terlebih dahulu dengan nama=GUESTS
 
-#tentukan iprange target dan bandwidth internet
+#tentukan ip range target dan bandwidth internet
 
 #copy dan paste script dibawah ini pada: IP-DHCP Server-Lease Script
